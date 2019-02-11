@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "course-api-executor",
+    "name": "course-api",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "bt10uvepcj",
+    "module": "api"
+  }
+}
